@@ -1,0 +1,23 @@
+# 42 Technologies
+
+> 42 Technologies is a retail business-intelligence and reporting platform that consolidates omnichannel retail data — point-of-sale, ecommerce, wholesale, and marketplace sources — into a unified dashboard with 100+ purpose-built retail metrics for merchandisers, buyers, and executives.
+
+Founded in 2013, 42 Technologies serves omnichannel retailers and brands, integrating with 100+ retail systems (Shopify, NetSuite, Amazon, Walmart, Magento, WooCommerce, and more) to deliver reporting, NRF-calendar-aware analytics, multi-currency support, and automated reports. This is an API Evangelist network profile; 42 Technologies does not publish a public developer API at this time.
+
+## Company
+
+- [Platform](https://www.42technologies.com/platform): Product overview of the retail analytics platform
+- [Integrations](https://www.42technologies.com/integrations): 100+ ecommerce, POS, marketplace, and ERP data connectors
+- [Customers](https://www.42technologies.com/customers): Retail brands using 42
+- [About](https://www.42technologies.com/about): Company background and team
+- [Pricing](https://www.42technologies.com/pricing): Plans and pricing
+- [Request a Demo](https://www.42technologies.com/request-demo): Sales / onboarding contact
+
+## Resources
+
+- [Blog](https://blog.42technologies.com/): Retail analytics articles and product news
+- [System Status](https://status.42technologies.com): Live platform uptime and incident history
+- [Application Login](https://app.42technologies.com/): Customer dashboard sign-in
+- [Terms of Use](https://www.42technologies.com/terms): Terms of service
+- [AI Terms](https://www.42technologies.com/ai-terms): AI usage terms
+- [Privacy Policy](https://www.42technologies.com/privacy): Privacy policy
